@@ -14,7 +14,7 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
  
  
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+<a href="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icon/number-21_9809429?term=21&page=1&position=24&origin=search&related_id=9809429" width="36" height="36" alt="JavaScript" /></a> Участвовал в бассейне Школы 21 от Сбера.
 
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
 
