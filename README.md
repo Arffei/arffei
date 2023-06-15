@@ -14,7 +14,7 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
  
  
 
-<a href="https://sun9-66.userapi.com/impg/Od3AIkvZeKkLuz-DH3xFsyaamr7LwsKKsQtNUA/sfJ_t9-jt50.jpg?size=512x512&quality=96&sign=79ad70787879db9b9d3490911b5b0c55&type=album" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icon/number-21_9809429?term=21&page=1&position=24&origin=search&related_id=9809429"></a> Участвовал в бассейне Школы 21 от Сбера.
+<a href="https://sun9-66.userapi.com/impg/Od3AIkvZeKkLuz-DH3xFsyaamr7LwsKKsQtNUA/sfJ_t9-jt50.jpg?size=512x512&quality=96&sign=79ad70787879db9b9d3490911b5b0c55&type=album"</a> Участвовал в бассейне Школы 21 от Сбера.
 
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
 
