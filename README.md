@@ -5,7 +5,7 @@
 
 ### 💬 Обо мне:
 
- <img src="https://vk.com/doc228578820_664300045?hash=zX1A54DBSXljO0ok6zIrm0DXQma619yoZANqMbOjYbD&dl=9CxDZikF749IHgBDDS6uOrIi5PAhR3I6uyinmQfUmqg&wnd=1&module=im" />
+ <img src="[https://vk.com/doc228578820_664300045?hash=zX1A54DBSXljO0ok6zIrm0DXQma619yoZANqMbOjYbD&dl=9CxDZikF749IHgBDDS6uOrIi5PAhR3I6uyinmQfUmqg&wnd=1&module=im](https://psv4.userapi.com/c240331/u228578820/docs/d31/9bc8532c06a5/aniyuki-my-hero-academia-40.gif?extra=JYslljGZEU9-qMGgZNZFaBFckmafMK2YT0HPcjUsI2zbKA8ExWnTA3zD2PuaAOkacSrjOgLbaiELlIk4EdNL5O4F1xmS6xglwsw6I5w0jZyXdh-SO5jA3cR3-fYjZ0C8Uq_NPBqvFpdzs0pWiByMrU0K)" />
 
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
