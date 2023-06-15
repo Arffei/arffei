@@ -1,15 +1,11 @@
 
-# Arffei
+# 𝔄𝔯𝔣𝔣𝔢𝔦
 
 ---
 
 ### 💬 Обо мне:
 
  https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQjeXwMY8fV2gs4t04AKPIZeV7uEdViUncHHhAW15TkjQI8ybRMnl0sSzyY6cd1y68gzSrOUsg9cGiFQBndQtLTaj49t4-gmXwSeqm3QtDvg-3Y_Fke-FJ6&usqp=CAE
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
@@ -57,7 +53,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
 </div>
 
 ---
