@@ -5,7 +5,7 @@
 
 ### 💬 Обо мне:
 
- https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQjeXwMY8fV2gs4t04AKPIZeV7uEdViUncHHhAW15TkjQI8ybRMnl0sSzyY6cd1y68gzSrOUsg9cGiFQBndQtLTaj49t4-gmXwSeqm3QtDvg-3Y_Fke-FJ6&usqp=CAE
+ <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQjeXwMY8fV2gs4t04AKPIZeV7uEdViUncHHhAW15TkjQI8ybRMnl0sSzyY6cd1y68gzSrOUsg9cGiFQBndQtLTaj49t4-gmXwSeqm3QtDvg-3Y_Fke-FJ6&usqp=CAE" />
 
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
