@@ -26,6 +26,7 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
 
 ### Socials
 
+<img src="https://sun9-5.userapi.com/impg/YBVkuoH5pMpyy8u85vgpWb5PNFbO_T8V08DfUA/kc0gmyXcZz8.jpg?size=32x32&quality=96&sign=66d9b13fa0d040081f11d4168f672cfa&type=album" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
 <p align="left"> <a href="https://discord.com/users/Arffei#4003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/arffei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/arffei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 ---
 
