@@ -68,7 +68,7 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users//badges/large)
+![codewars](https://www.codewars.com/users/Arffei/badges/large)
 
 ### ⚙️ GitHub статистика:
 
