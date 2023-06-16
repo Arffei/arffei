@@ -14,7 +14,7 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
  
  
 
-<p height="20px>![image](https://github.com/Arffei/arffei/assets/136625284/6ee77d81-078e-4151-8337-455585323c27)</p> Участвовал в бассейне Школы 21 от Сбера.
+<p height="20px">![image](https://github.com/Arffei/arffei/assets/136625284/6ee77d81-078e-4151-8337-455585323c27)</p> Участвовал в бассейне Школы 21 от Сбера.
 
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
 
