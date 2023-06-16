@@ -1,5 +1,7 @@
 
 #  <p align="center"><img src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-my-hero-academia-40.gif" /></p>
+<a href="https://www.github.com/arffei" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/arffei?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 <p align="center"><a href="https://www.twitch.tv/arffei" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a></p>
 
