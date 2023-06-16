@@ -23,7 +23,7 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
 
 <!-- <p align="center"><a href="https://ibb.co/gDh7mwD"><img src="https://i.ibb.co/gDh7mwD/reddit.png" width="62" height="62" alt="reddit" border="0"></a> 
 <a href="https://ibb.co/2jWfsbg"><img src="https://i.ibb.co/2jWfsbg/youtube.png" width="62" height="62" alt="youtube" border="0"></a> --> 
-<a href="https://github.com/Arffei"><img src="https://i.ibb.co/j49Fssy/github.png" width="62" height="62" alt="github" border="0"></a> 
+<p align="center"><a href="https://github.com/Arffei"><img src="https://i.ibb.co/j49Fssy/github.png" width="62" height="62" alt="github" border="0"></a> 
 <a href="https://vk.com/arffei"><img src="https://i.ibb.co/F8V2GPw/vk.png" width="62" height="62" alt="vk" border="0"></a> 
 <a href="https://www.twitch.tv/arffei"><img src="https://i.ibb.co/frh2ftf/twitch.png" width="62" height="62" alt="twitch" border="0"></a></p> 
 
