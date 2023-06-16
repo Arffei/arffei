@@ -14,7 +14,7 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
  
  
  
-<img src="https://ibb.co/BnsnvRB" width="40" height="40">
+[<img src="https://ibb.co/https://ibb.co/BnsnvRBBnsnvRB" width="40" height="40">](https://ibb.co/BnsnvRB)
 
 https://i.yapx.ru/WKEIE.png 𝓢𝓽𝓾𝓭𝓮𝓷𝓽 𝓸𝓯 𝓼𝓬𝓱𝓸𝓸𝓵 21
 
