@@ -25,7 +25,7 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
 <a href="https://ibb.co/2jWfsbg"><img src="https://i.ibb.co/2jWfsbg/youtube.png" alt="youtube" border="0"></a> 
 <a href="https://ibb.co/j49Fssy"><img src="https://i.ibb.co/j49Fssy/github.png" alt="github" border="0"></a> 
 <a href="https://ibb.co/F8V2GPw"><img src="https://i.ibb.co/F8V2GPw/vk.png" alt="vk" border="0"></a> 
-- <a href="https://www.twitch.tv/arffei"><img src="https://i.ibb.co/frh2ftf/twitch.png" width="62" height="62" alt="twitch" border="0"></a> -
+- <a href="https://www.twitch.tv/arffei"><img src="https://i.ibb.co/frh2ftf/twitch.png" width="62" height="62" alt="twitch" border="0"></a> ⯌
 <a href="https://ibb.co/BnsnvRB">
 
 ---
