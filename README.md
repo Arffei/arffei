@@ -9,7 +9,20 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
 
 ### <p align="center">⸻⸻ ⯌ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ⯌ ⸻⸻</p>
 
-<a href="https://ibb.co/BnsnvRB"><img src="https://i.ibb.co/BnsnvRB/twenty-one-1.png" width="32" height="32"></a> <p align="left">⸻⸻ ⯌ 𝓢𝓽𝓾𝓭𝓮𝓷𝓽 𝓸𝓯 𝓼𝓬𝓱𝓸𝓸𝓵 21 ⯌ ⸻⸻</p>
+<a href="https://ibb.co/BnsnvRB"><img src="https://i.ibb.co/BnsnvRB/twenty-one-1.png" width="32" height="32"></a> <style>
+@font-face {
+font-family: 'RedOctober';
+src: url('/fonts/r/RedOctober.ttf');
+}
+.text_effect {
+font-family: 'RedOctober';
+color: rgb(255, 145, 145);
+font-size: 36px;
+background-color: rgb(255, 255, 255);
+text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+}
+</style>
+<p class="text_effect">Студент школы 21</p>
 
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
 
