@@ -15,7 +15,7 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
 
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
-- ✉ ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖: [![Telegram Badge](https://img.shields.io/badge/-arffei-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arffei) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:arffei.storm@gmail.com)
+- 📌 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖  ⯌  [![Telegram Badge](https://img.shields.io/badge/-arffei-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arffei) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:arffei.storm@gmail.com)
 
 ---
 
