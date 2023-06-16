@@ -9,7 +9,7 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
 
 ### <p align="center">⸻⸻ ⯌ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ⯌ ⸻⸻</p>
 
-<a href="https://ibb.co/BnsnvRB"><img src="https://i.ibb.co/BnsnvRB/twenty-one-1.png"  width="32" height="32">Студент школы 21</a> 
+<a href="https://ibb.co/BnsnvRB"><img src="https://i.ibb.co/BnsnvRB/twenty-one-1.png"  width="32" height="32"></a> Студент школы 21
 
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
 
