@@ -21,7 +21,12 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
 
 ### Socials
 
-<a href="https://ibb.co/gDh7mwD"><img src="https://i.ibb.co/gDh7mwD/reddit.png" alt="reddit" border="0"></a> <a href="https://ibb.co/2jWfsbg"><img src="https://i.ibb.co/2jWfsbg/youtube.png" alt="youtube" border="0"></a> <a href="https://ibb.co/j49Fssy"><img src="https://i.ibb.co/j49Fssy/github.png" alt="github" border="0"></a> <a href="https://ibb.co/F8V2GPw"><img src="https://i.ibb.co/F8V2GPw/vk.png" alt="vk" border="0"></a> <a href="https://ibb.co/frh2ftf"><img src="https://i.ibb.co/frh2ftf/twitch.png" alt="twitch" border="0"></a> <a href="https://ibb.co/BnsnvRB">
+<a href="https://ibb.co/gDh7mwD"><img src="https://i.ibb.co/gDh7mwD/reddit.png" alt="reddit" border="0"></a> 
+<a href="https://ibb.co/2jWfsbg"><img src="https://i.ibb.co/2jWfsbg/youtube.png" alt="youtube" border="0"></a> 
+<a href="https://ibb.co/j49Fssy"><img src="https://i.ibb.co/j49Fssy/github.png" alt="github" border="0"></a> 
+<a href="https://ibb.co/F8V2GPw"><img src="https://i.ibb.co/F8V2GPw/vk.png" alt="vk" border="0"></a> 
+<a href="https://www.twitch.tv/arffei"><img src="https://i.ibb.co/frh2ftf/twitch.png" alt="twitch" border="0"></a> 
+<a href="https://ibb.co/BnsnvRB">
 
 ---
 
