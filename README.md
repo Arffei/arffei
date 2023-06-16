@@ -44,7 +44,7 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
 
 ---
 
-### <p align="center">⸻⸻ ⯌ 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 ⯌ ⸻⸻</p>
+### <p align="center">⸻⸻ ⯌ 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 ⯌ ⸻⸻</p>
 
 <p align="center">
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
