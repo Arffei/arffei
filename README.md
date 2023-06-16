@@ -19,7 +19,7 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
 
 ---
 
-### <p align="center">⸻⸻ ⯌ ![image](https://github.com/Arffei/arffei/assets/136625284/82f2d512-db1b-4b57-a13f-ffe2f64ecfe0) ⯌ ⸻⸻</p>
+### <p align="center">⸻⸻ ⯌ [![image](https://github.com/Arffei/arffei/assets/136625284/82f2d512-db1b-4b57-a13f-ffe2f64ecfe0)](https://media3.giphy.com/media/3o7aDd4hAEcciOzcVW/200w.gif?cid=6c09b952x1uf5kyqcgqw5ethuueswm4g91yaxt2g6w8qbj9b&ep=v1_gifs_search&rid=200w.gif&ct=g) ⯌ ⸻⸻</p>
 
 <p align="center"><a href="https://ibb.co/gDh7mwD"><img src="https://i.ibb.co/gDh7mwD/reddit.png" width="62" height="62" alt="reddit" border="0"></a> 
 <a href="https://ibb.co/2jWfsbg"><img src="https://i.ibb.co/2jWfsbg/youtube.png" width="62" height="62" alt="youtube" border="0"></a> 
