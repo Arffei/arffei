@@ -14,7 +14,7 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
  
 <img src="https://i.yapx.ru/WKEIE.png" width="40" height="40"/>&nbsp;
 
-https://i.yapx.ru/WKEIE.png Участвовал в бассейне Школы 21 от Сбера.
+https://i.yapx.ru/WKEIE.png 𝓢𝓽𝓾𝓭𝓮𝓷𝓽 𝓸𝓯 𝓼𝓬𝓱𝓸𝓸𝓵 21
 
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
 
