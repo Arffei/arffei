@@ -66,11 +66,11 @@ src="https://img.shields.io/twitch/status/arffei?logo=twitchsx&style=for-the-bad
 | 𝕣𝕦.𝕙𝕖𝕩𝕝𝕖𝕥.𝕚𝕠 ⯌ 𝔾𝕚𝕥 𝕓𝕒𝕤𝕚𝕔𝕤                                      | 𝟙𝟚.𝟘𝟞.𝟚𝟘𝟚𝟛 - 𝟙𝟞.𝟘𝟞.𝟚𝟘𝟚𝟛 |
 
 
-### 💻 Codewars:
+### <p align="center">⸻⸻ ⯌ ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 ⯌ ⸻⸻</p>
 
 ![codewars](https://www.codewars.com/users/Arffei/badges/large)
 
-### ⚙️ GitHub статистика:
+### <p align="center">⸻⸻ ⯌ 𝔾𝕚𝕥𝕙𝕦𝕓 𝕤𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤 ⯌ ⸻⸻</p>
 
 <table>
   <tr>
