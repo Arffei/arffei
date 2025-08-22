@@ -1,10 +1,12 @@
-📞 Свяжитесь со мной!
-<div align="center">
-https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram
-https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail
-https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin
-
-</div>
+<!-- Анимированная диаграмма навыков -->
+### 📊 Мои навыки
+const skills = {
+  languages: ["JavaScript", "TypeScript", "Python", "Java"],
+  frontend: ["React", "Vue", "Redux", "Webpack"],
+  backend: ["Node.js", "Express", "NestJS", "Django"],
+  databases: ["MongoDB", "PostgreSQL", "Redis"],
+  tools: ["Docker", "Git", "AWS", "Jest"]
+};
 
 #  <p align="center"><img src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-my-hero-academia-40.gif" /></p>
 <p align="center"><a href="https://www.github.com/arffei" target="_blank" rel="noreferrer"><img
