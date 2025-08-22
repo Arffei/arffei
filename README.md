@@ -1,12 +1,11 @@
-<!-- Анимированная диаграмма навыков -->
-### 📊 Мои навыки
-const skills = {
-  languages: ["JavaScript", "TypeScript", "Python", "Java"],
-  frontend: ["React", "Vue", "Redux", "Webpack"],
-  backend: ["Node.js", "Express", "NestJS", "Django"],
-  databases: ["MongoDB", "PostgreSQL", "Redis"],
-  tools: ["Docker", "Git", "AWS", "Jest"]
-};
+<div align="center">
+  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=[ВАШ_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ВАШ_USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=[ВАШ_USERNAME]&theme=radical&no-bg=true&no-frame=true&column=4)
+</div>
+
 
 #  <p align="center"><img src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-my-hero-academia-40.gif" /></p>
 <p align="center"><a href="https://www.github.com/arffei" target="_blank" rel="noreferrer"><img
