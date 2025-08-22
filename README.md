@@ -1,9 +1,5 @@
 <div align="center">
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=[ВАШ_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ВАШ_USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=[ВАШ_USERNAME]&theme=radical&no-bg=true&no-frame=true&column=4)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B8B&center=true&vCenter=true&width=435&lines=Привет!+Я+[Ваше+Имя];Fullstack+Developer;Люблю+чистый+код+и+кофе;Создаю+крутые+веб-приложения" alt="Титульная надпись" />
 </div>
 
 
