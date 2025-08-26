@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B8B&center=true&vCenter=true&width=435&lines=Привет!+Я+[Ваше+Имя];Fullstack+Developer;Люблю+чистый+код+и+кофе;Создаю+крутые+веб-приложения" alt="Титульная надпись" />
-</div>
+asd
 
 #  <p align="center"><img src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-my-hero-academia-40.gif" /></p>
 <p align="center"><a href="https://www.github.com/arffei" target="_blank" rel="noreferrer"><img
